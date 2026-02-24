@@ -1,0 +1,32 @@
+*{
+    background-color: aliceblue;
+    padding: 0;
+}
+
+#nome {
+    width: 310px;   /* Define a largura */
+    height: 16px;   /* Define a altura */
+    
+}
+
+#validade{
+    width: 150px;  
+    height: 16px;
+}
+
+#cvv{
+    width: 150px;  
+    height: 16px;
+}
+
+#numero{
+    width: 310px; 
+    height: 16px;   
+}
+
+button{
+    background-color: brown;
+    width: 310px;
+    
+}
+
